@@ -1,6 +1,6 @@
 ---
 title: Welcome to my Website 
 
-This is a test
+body: This is a test
 ---
 
